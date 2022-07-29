@@ -1,0 +1,10 @@
+.about-image{
+    box-shadow: 5px 5px 10px rgb(168, 177, 190);
+    filter: grayscale(100%);
+    width: 800px;
+    height: 300px;
+}
+.text-about{
+    color: black;
+    font-weight: bolder;
+}
